@@ -8,9 +8,7 @@ REPO TO SERVER PROGRAM FOR THIS PROJECT: https://github.com/MekaelWasti/Java-Cha
 
 ## Description
 
-
-1. Project  information:  short  textual  description  of  your  project,  and  at  least  one 
-screenshot of your application running. 
+ 
 
 This project is a basic chat app that allows user's to log in and send text messages to their friends/contacts.
 The project makes use of Java FX for the UI/GUI, with the use of sockets for the connection of users and transfering 
@@ -18,7 +16,7 @@ of data, along with the use of multithreading concepts for optimized performance
 
 ![image](https://user-images.githubusercontent.com/40731373/163483804-165b827f-feb9-49ae-9ca6-0bdb157344f8.png)
 
-2. How to run: step-by-step  information on how one can successfully clone and run 
+How to run: step-by-step  information on how one can successfully clone and run 
 your application. 
   
   Steps:
