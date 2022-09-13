@@ -1,7 +1,7 @@
 # Prism Chat
 (Repo Duplicated for Showcasing)
 
-Final Project for CSCI 2020U by: Mekael Wasti - 100780179, Gavin Bosman - 100781902, Ammar Hatiya - 100746962, Seodong Lim - 100748897
+Final Project for CSCI 2020U by: Mekael Wasti - 100780179, Gavin Bosman - 100781902, Ammar Hatiya - 100746962
 
 **THE JAR IS AVAILABLE IN THE RELEASE SECTION ON THE MAIN PAGE OF THIS REPO TO THE RIGHT**
 
